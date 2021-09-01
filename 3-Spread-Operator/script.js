@@ -1,3 +1,4 @@
+'use strict'
 // Unpacking all array elements into one
 const restaurant = {
   name: 'Pepe Pizza',
