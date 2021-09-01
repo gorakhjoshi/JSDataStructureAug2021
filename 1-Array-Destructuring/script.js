@@ -1,3 +1,4 @@
+'use strict'
 // Array Destructuring
 // unpacking data into separate variables
 // ES 6 feature
