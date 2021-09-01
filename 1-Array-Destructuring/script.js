@@ -1,3 +1,4 @@
+// Array Destructuring
 // unpacking data into separate variables
 // ES 6 feature
 // We will simulate food delivery application
