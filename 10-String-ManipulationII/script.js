@@ -1,3 +1,4 @@
+'use strict';
 const airline = 'Nepal Airlines';
 console.log(airline.toLowerCase());
 console.log(airline.toUpperCase());
